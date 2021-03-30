@@ -1,0 +1,8 @@
+prefix=/home/etudiant/yaskawa2/devel
+
+Name: simple_message
+Description: Description of simple_message
+Version: 0.7.1
+Cflags: -I/home/etudiant/yaskawa2/src/industrial_core/simple_message/include
+Libs: -L${prefix}/lib -lsimple_message_dummy
+Requires: roscpp industrial_msgs

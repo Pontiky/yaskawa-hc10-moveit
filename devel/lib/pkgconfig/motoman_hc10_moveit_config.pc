@@ -1,0 +1,8 @@
+prefix=/home/etudiant/yaskawa2/devel
+
+Name: motoman_hc10_moveit_config
+Description: Description of motoman_hc10_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy

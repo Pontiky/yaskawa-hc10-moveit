@@ -1,0 +1,8 @@
+prefix=/home/etudiant/yaskawa2/devel
+
+Name: industrial_utils
+Description: Description of industrial_utils
+Version: 0.7.1
+Cflags: -I/home/etudiant/yaskawa2/src/industrial_core/industrial_utils/include
+Libs: -L${prefix}/lib -lindustrial_utils
+Requires: roscpp urdf
