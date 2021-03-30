@@ -1,4 +1,4 @@
-Projet de Master 2 Robotique Décision et Commande - Intégration d’un robot coopératif dans un environnement de production à l’aide du middleware ROS
+Projet de Master 2 Robotique Décision et Commande - Intégration du robot coopératif Yaskawa HC10 dans un environnement de production à l’aide du middleware ROS
 
 =============
 
