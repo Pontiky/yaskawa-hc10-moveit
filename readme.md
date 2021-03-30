@@ -35,5 +35,5 @@ sur le robot collaboratif Yaskawa HC10.
 ## Scripts Python
 
 * Commande du robot en joints : `rosrun motoman_hc10_moveit_config move_to_joints.py '[1.57, 0, 0, 0, 0, 0]'` (joints en rad)
-* Redéfinition des collisions avec la scène dans `scripts/add_interferences.py`
-* Tâche en vitesse (non fonctionnel) dans `scripts/velocity_control.py`
+* Redéfinition des collisions avec la scène dans `src/motoman_hc10_moveit_config/scripts/add_interferences.py`
+* Tâche en vitesse (non fonctionnel) dans `src/motoman_hc10_moveit_config/scripts/velocity_control.py`
